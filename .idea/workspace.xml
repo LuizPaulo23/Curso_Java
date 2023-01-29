@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionArgs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeuPrimeiroPrograma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestFunction.java" afterDir="false" />
-    </list>
+    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="ADD: aulas - curso introdutório em Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +60,43 @@
       <option name="presentableId" value="Default" />
       <updated>1674968079718</updated>
     </task>
+    <task id="LOCAL-00001" summary="ADD: aulas - curso introdutório em Java">
+      <created>1675016212604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675016212604</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ADD: aulas - curso introdutório em Java">
+      <created>1675016230197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675016230197</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ADD: aulas - curso introdutório em Java">
+      <created>1675016458174</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675016458174</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD: aulas - curso introdutório em Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD: aulas - curso introdutório em Java" />
   </component>
 </project>
