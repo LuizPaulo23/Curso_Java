@@ -5,5 +5,4 @@ public class FunctionArgs{
         System.out.println(args[0]);
         System.out.println(args[1]);
     }
-
 }
