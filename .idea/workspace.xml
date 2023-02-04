@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="ADD: aulas - curso introdutório em Java">
+    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="ADD: Comparando Strings">
+      <change afterPath="$PROJECT_DIR$/OPP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Visibilidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Visibilidade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +44,13 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculadora" />
+      <module name="curso_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MeuPrimeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MeuPrimeiroPrograma" />
       <module name="curso_Java" />
@@ -49,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculadora" />
         <item itemvalue="Application.MeuPrimeiroPrograma" />
       </list>
     </recent_temporary>
@@ -83,7 +95,70 @@
       <option name="project" value="LOCAL" />
       <updated>1675016458174</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ADD: First calculate">
+      <created>1675019464970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675019464970</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CHANGED: calculadora finalizada">
+      <created>1675022899012</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675022899012</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ADD: script estrutura de repretição">
+      <created>1675027080722</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675027080722</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ADD: Utilizando Scanner">
+      <created>1675036671456</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675036671456</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ADD: Utilizando Scanner">
+      <created>1675216274818</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675216274818</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ADD: Utilizando Scanner">
+      <created>1675216530610</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675216530610</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ADD: Utilizando Scanner">
+      <created>1675301852733</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675301852733</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ADD: Manipulando Strings">
+      <created>1675382013183</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675382013183</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ADD: Comparando Strings">
+      <created>1675382984620</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675382984620</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +174,28 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ADD: aulas - curso introdutório em Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD: aulas - curso introdutório em Java" />
+    <MESSAGE value="ADD: First calculate" />
+    <MESSAGE value="CHANGED: refatorando" />
+    <MESSAGE value="CHANGED: calculadora finalizada" />
+    <MESSAGE value="ADD: script estrutura de repretição" />
+    <MESSAGE value="ADD: Utilizando Scanner" />
+    <MESSAGE value="ADD: Manipulando Strings" />
+    <MESSAGE value="ADD: Comparando Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD: Comparando Strings" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Calculadora.java</url>
+          <line>2</line>
+          <properties class="Calculadora" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
