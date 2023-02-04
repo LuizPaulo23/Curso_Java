@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="CHANGED: OOP">
-      <change afterPath="$PROJECT_DIR$/src/OOP/GettersSetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/UserGetters.java" afterDir="false" />
+    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="CHANGED: GETTER &amp; SETTERS">
+      <change afterPath="$PROJECT_DIR$/src/OOP/ARRAYS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675486742294</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="CHANGED: GETTER &amp; SETTERS">
+      <created>1675531751625</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675531751625</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,7 +242,8 @@
     <MESSAGE value="CHANGED: ORGANIZANDO AS PASTAS" />
     <MESSAGE value="CHANGED: Pkg e OOP" />
     <MESSAGE value="CHANGED: OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="CHANGED: OOP" />
+    <MESSAGE value="CHANGED: GETTER &amp; SETTERS" />
+    <option name="LAST_COMMIT_MESSAGE" value="CHANGED: GETTER &amp; SETTERS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
