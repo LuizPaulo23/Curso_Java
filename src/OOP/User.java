@@ -7,8 +7,13 @@ public class User {
     // Membro - propriedade e metodos (comportamento)
     public String firstName;
     public String lastName;
+    private String fullname;
 
+    public String getFullname(){
 
+        return firstName + " " + lastName;
+
+    }
 
 
 }

@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="CHANGED: ORGANIZANDO AS PASTAS">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/UserOPP.java" afterDir="false" />
+    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="CHANGED: Pkg e OOP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OPP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/UserOPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/UserOPP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675473363892</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="CHANGED: Pkg e OOP">
+      <created>1675483784930</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675483784930</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +227,8 @@
     <MESSAGE value="ADD: Comparando Strings" />
     <MESSAGE value="ADD: Organizando Pastas" />
     <MESSAGE value="CHANGED: ORGANIZANDO AS PASTAS" />
-    <option name="LAST_COMMIT_MESSAGE" value="CHANGED: ORGANIZANDO AS PASTAS" />
+    <MESSAGE value="CHANGED: Pkg e OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="CHANGED: Pkg e OOP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

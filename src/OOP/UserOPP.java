@@ -5,9 +5,9 @@ public class UserOPP {
         User userA = new User();
         userA.firstName = "Luiz Paulo";
         userA.lastName = "Tavares Goncalves";
+        String fullname = userA.getFullname();
 
-        System.out.println(userA.firstName);
-        System.out.println(userA.lastName);
+        System.out.println(fullname);
     }
 
 }
