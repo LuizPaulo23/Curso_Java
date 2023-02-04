@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="CHANGED: GETTER &amp; SETTERS">
-      <change afterPath="$PROJECT_DIR$/src/OOP/ARRAYS.java" afterDir="false" />
+    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="ADD: Arrays in OOP">
+      <change afterPath="$PROJECT_DIR$/src/OOP/Construtor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/UserConstrutor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -214,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675531751625</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ADD: Arrays in OOP">
+      <created>1675538537462</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675538537462</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,7 +251,8 @@
     <MESSAGE value="CHANGED: Pkg e OOP" />
     <MESSAGE value="CHANGED: OOP" />
     <MESSAGE value="CHANGED: GETTER &amp; SETTERS" />
-    <option name="LAST_COMMIT_MESSAGE" value="CHANGED: GETTER &amp; SETTERS" />
+    <MESSAGE value="ADD: Arrays in OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD: Arrays in OOP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
