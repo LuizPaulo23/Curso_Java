@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="ADD: LISTAS">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Fibonacci.java" afterDir="false" />
+    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="ADD: Ordenação Arrays">
+      <change afterPath="$PROJECT_DIR$/src/OOP/ComparadoArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -235,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675541484859</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="ADD: Ordenação Arrays">
+      <created>1675545249944</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1675545249944</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,7 +274,8 @@
     <MESSAGE value="ADD: Arrays in OOP" />
     <MESSAGE value="ADD: Construtor - OOP" />
     <MESSAGE value="ADD: LISTAS" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD: LISTAS" />
+    <MESSAGE value="ADD: Ordenação Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD: Ordenação Arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
