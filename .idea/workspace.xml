@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="ADD: Ordenação Arrays">
-      <change afterPath="$PROJECT_DIR$/src/OOP/ComparadoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="56d66a27-a8db-47bc-bcc9-4ffea03072f8" name="Changes" comment="ADD: Comparando Arrays">
+      <change afterPath="$PROJECT_DIR$/src/FillArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675545249944</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="ADD: Comparando Arrays">
+      <created>1675545668234</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1675545668234</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,7 +281,8 @@
     <MESSAGE value="ADD: Construtor - OOP" />
     <MESSAGE value="ADD: LISTAS" />
     <MESSAGE value="ADD: Ordenação Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD: Ordenação Arrays" />
+    <MESSAGE value="ADD: Comparando Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD: Comparando Arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
